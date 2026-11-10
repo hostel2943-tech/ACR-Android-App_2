@@ -1,4 +1,3 @@
-
 package com.acr.hostelregister;
 
 import android.app.Activity;
@@ -14,7 +13,7 @@ public class MainActivity extends Activity {
     private WebView webView;
 
     private static final String WEBSITE_URL =
-            "https://hostel2943-tech.github.io/ACR-email-update/";
+            "https://hostel2943-tech.github.io/ACR-Android-App_2/";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
